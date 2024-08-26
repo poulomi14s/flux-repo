@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   interval: 1m
-  path: "./flux-cd/repositories/poulomi-app-1/deploy"
+  path: "./flux-cd/reporsitories/poulomi-app1/deploy"
   prune: true
   sourceRef:
     kind: GitRepository
